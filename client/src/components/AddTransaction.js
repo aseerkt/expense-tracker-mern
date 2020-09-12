@@ -11,7 +11,6 @@ export const AddTransaction = () => {
     e.preventDefault();
 
     const newTransaction = {
-      id: Math.random() * 1000000,
       text,
       amount: +amount,
     };
