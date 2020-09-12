@@ -1,0 +1,19 @@
+{
+  "name": "expense-tracker",
+  "version": "1.0.0",
+  "description": "MERN Expense Tracker | Traversy Media",
+  "main": "server.js",
+  "scripts": {
+    "client": "npm start --prefix client"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aseerkt/expense-tracker-mern.git"
+  },
+  "author": "Aseer KT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aseerkt/expense-tracker-mern/issues"
+  },
+  "homepage": "https://github.com/aseerkt/expense-tracker-mern#readme"
+}
